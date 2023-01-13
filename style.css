@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: content-box;
 }
 
 .cover{
@@ -25,6 +26,7 @@
 }
 .description{
     height: 100%;
+    padding: 5px;
     background-color: aliceblue;
     border: 1px dashed black;
 }
